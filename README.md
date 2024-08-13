@@ -13,28 +13,28 @@ This is a simple and intuitive shopping list web application built with vanilla 
 ##
 
 3. install
-![Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install](assets/installing-fron-chrom.jpg)
+<img src="assets/installing-fron-chrom.jpg" alt="Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install" width="400"/>
 - Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install.
 
 ### it installs as a native app
-![app icon](assets/app-icon.jpg)
+<img src="assets/app-icon.jpg" alt="app icon" width="400"/>
 
 ### welcome Screen
-![welcome Screen](assets/welcome-screen.jpg)
+<img src="assets/welcome-screen.jpg" alt="welcome Screen" width="400"/>
 
 ### empty cart view
-![empty cart view](assets/empty-cart.jpg)
+<img src="assets/empty-cart.jpg" alt="empty cart view" width="400"/>
 
 ### adding to cart view
-![adding to cart view](assets/add-to-cart.jpg)
+<img src="assets/main-interface.png" alt="Main Interface" width="400"/>
 
 ### view with cart items added
 ![view with cart items](assets/cart-items.jpg)
+<img src="assets/cart-items.jpg" alt="adding to cart view" width="400"/>
 
 
 ### removing item from cart
-- click on item to removing it from cart
-![click on item to removing it from cart](assets/cart-items-removed.jpg)
+<img src="assets/cart-items-removed.jpg" alt="click on item to removing it from cart" width="400"/>
 
 ## Features
   Add Items to the List: Users can input items into the shopping list using the input field and add them by clicking the "Add" button.
