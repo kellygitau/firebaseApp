@@ -1,4 +1,6 @@
 Shopping List Web App
+
+### intro
 This is a simple and intuitive shopping list web application built with vanilla JavaScript and Firebase. The app allows users to manage their shopping lists by adding and removing items, with data being stored and synced via Firebase Realtime Database. The app can also be installed directly from Chrome as a Progressive Web App (PWA) for easy access.
 
 ## Screenshots
@@ -8,7 +10,9 @@ This is a simple and intuitive shopping list web application built with vanilla 
 1. Navigate to website
    [Link Here]([URL](https://kelly-shopping-list.netlify.app/))
 
-2. install
+##
+
+3. install
 ![Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install](assets/installing-fron-chrom.jpg)
 - Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install.
 
