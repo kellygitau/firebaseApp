@@ -1,4 +1,4 @@
-![app-icon](https://github.com/user-attachments/assets/d729c59b-cee0-4526-a052-95830c91638c)<---Shopping List Web App-->
+Shopping List Web App
 This is a simple and intuitive shopping list web application built with vanilla JavaScript and Firebase. The app allows users to manage their shopping lists by adding and removing items, with data being stored and synced via Firebase Realtime Database. The app can also be installed directly from Chrome as a Progressive Web App (PWA) for easy access.
 
 ## Screenshots
