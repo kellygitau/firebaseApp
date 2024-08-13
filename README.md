@@ -8,7 +8,7 @@ This is a simple and intuitive shopping list web application built with vanilla 
 ### Installation from chrome
 
 1. Navigate to website
-   [Link Here]([URL](https://kelly-shopping-list.netlify.app/))
+   [Link Here](https://kelly-shopping-list.netlify.app/)
 
 ##
 
