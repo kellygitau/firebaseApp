@@ -13,28 +13,27 @@ This is a simple and intuitive shopping list web application built with vanilla 
 ##
 
 3. install
-<img src="assets/installing-fron-chrom.jpg" alt="Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install" width="400"
-   height="400"/>
+<img src="assets/installing-fron-chrom.jpg" alt="Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install" width="400"/>
 - Click on the ellipsis icon on the top right of your screen and navigate to the install button and click to install.
 
 ### it installs as a native app
-<img src="assets/app-icon.jpg" alt="app icon" width="400" height="400"/>
+<img src="assets/app-icon.jpg" alt="app icon" width="400"/>
 
 ### welcome Screen
-<img src="assets/welcome-screen.jpg" alt="welcome Screen" width="400" height="400"/>
+<img src="assets/welcome-screen.jpg" alt="welcome Screen" width="400" />
 
 ### empty cart view
-<img src="assets/empty-cart.jpg" alt="empty cart view" width="400" height="400"/>
+<img src="assets/empty-cart.jpg" alt="empty cart view" width="400" />
 
 ### adding to cart view
-<img src="assets/main-interface.png" alt="Main Interface" width="400" height="400"/>
+<img src="assets/main-interface.png" alt="Main Interface" width="400" />
 
 ### view with cart items added
-<img src="assets/cart-items.jpg" alt="adding to cart view" width="400" height="400"/>
+<img src="assets/cart-items.jpg" alt="adding to cart view" width="400" />
 
 
 ### removing item from cart
-<img src="assets/cart-items-removed.jpg" alt="click on item to removing it from cart" width="400" height="400"/>
+<img src="assets/cart-items-removed.jpg" alt="click on item to removing it from cart" width="400"/>
 
 ## Features
   Add Items to the List: Users can input items into the shopping list using the input field and add them by clicking the "Add" button.
